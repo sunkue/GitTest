@@ -24,4 +24,7 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="소스.ac" />
+  </ItemGroup>
 </Project>

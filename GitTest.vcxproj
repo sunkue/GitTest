@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClCompile Include="TestTC.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="소스.ac" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
